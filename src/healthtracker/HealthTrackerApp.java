@@ -70,7 +70,7 @@ public class HealthTrackerApp extends JFrame {
     }
 
     public static void main(String[] args) {
-        User user = new User("John Doe", 25, 70); // Replace with actual user details
+        User user = new User("Sathvika", 21, 50); // Replace with actual user details
         new HealthTrackerApp(user).setVisible(true);
     }
 }
